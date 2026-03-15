@@ -100,21 +100,12 @@ Press **Q** to exit the program.
 
 ## Demo
 
-You can add screenshots or a demo video here.
-
-Example:
-
-```
-![Demo Screenshot](images/demo.png)
-```
 
 ---
 
 ## Applications
 
 * Touchless computer control
-* Accessibility tools for users with disabilities
-* Smart home interfaces
 * Gesture-based interaction systems
 * Human-computer interaction research
 
