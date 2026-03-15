@@ -51,7 +51,6 @@ AI-Hands-Free-Control-System
 │
 ├── main.py
 ├── hand_tracker.py
-├── requirements.txt
 └── README.md
 ```
 
