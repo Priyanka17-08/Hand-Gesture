@@ -90,7 +90,7 @@ pip install opencv-python mediapipe pyautogui numpy
 Run the following command:
 
 ```
-python main.py
+py -3.11 main.py
 ```
 
 Make sure your **webcam is enabled**.
