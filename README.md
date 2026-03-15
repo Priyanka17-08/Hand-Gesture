@@ -61,13 +61,13 @@ AI-Hands-Free-Control-System
 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/AI-Hands-Free-Control-System.git
+https://github.com/Priyanka17-08/Hand-Gesture.git
 ```
 
 2. Navigate to the project folder
 
 ```
-cd AI-Hands-Free-Control-System
+cd Hand-Gesture
 ```
 
 3. Install required libraries
